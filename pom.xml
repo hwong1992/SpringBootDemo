@@ -123,7 +123,7 @@
         <url>http://144.38.203.12:8080/manager/text</url> 
         <warFile>target\demo.war</warFile> 
         <path>/demo</path> 
-        <username>hwong</username>
+        <username>hwong1</username>
         <password>a34933363</password>
         </configuration> 
         </plugin> 
